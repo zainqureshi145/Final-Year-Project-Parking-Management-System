@@ -1,0 +1,67 @@
+.header
+{
+	background: #e3e3e3;
+	height: 667px;
+}
+.heading
+{
+	background: black;
+	color:white;
+}
+#mainTitle
+{
+	font-size: 50px;
+	text-align: center;
+}
+
+tr .field
+{
+	width:350px;
+}
+
+.empty
+{
+	padding-bottom: 80px;
+}
+.footer
+{
+	color: white;
+	background: black;
+	height: 130px;
+}
+
+
+/*------------------------------------------------------*/
+#floor1
+{
+	text-align:center;
+}
+
+.unallocated-space
+{
+	height: 250px;
+	width: 125px;
+	background-color: green;
+}
+
+
+.space {
+	height: 250px;
+	width: 125px;
+	background-color: red;
+}
+
+
+.status{
+	background-color: #000;
+	color:white;
+	text-align: center;
+}
+
+.status-allocated
+{
+	background:#606060;
+	color:#fff;
+	text-align: center;
+}
+
